@@ -28,7 +28,7 @@ The dashboards are designed to work with different data sources, and users can c
 
 ### 2.Churn Analysis Dashboard
 - The Churn Analysis Dashboard in Power BI provides a clear summary of customer retention trends, highlighting key factors 
-  contributing to churn and retention. It helps businesses monitor churn rates and identify at-risk customers effectively.
+  contributing to churn and retention. It helps businesses monitor churn rates and identify risk customers effectively.
 - The dashboard visualizes data such as customer demographics, usage patterns, and churn reasons. It includes metrics like 
   churn percentage, retention rates, and segmentation to enable data-driven strategies for improving customer loyalty.
 
